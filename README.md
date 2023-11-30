@@ -65,15 +65,15 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 
 # RTL realisation
-![Exp 02 RTL realisation](https://github.com/amal-2006/Experiment--02-Implementation-of-combinational-logic-/assets/148410730/bce0eba8-f13d-4d55-8627-74b6c130b0d5)
+![image](https://github.com/HareeshrajaR/Experiment--02-Implementation-of-combinational-logic-/assets/144870459/a2083a6d-2fff-4fa0-bb94-8e844e82865e)
 
-
-# Truth Table
-![Exp 02 Truth Table](https://github.com/amal-2006/Experiment--02-Implementation-of-combinational-logic-/assets/148410730/85e547b6-1c5e-4c80-8ed1-f281fa2b589b)
+# TRUTH Table
+![image](https://github.com/HareeshrajaR/Experiment--02-Implementation-of-combinational-logic-/assets/144870459/90b79cc6-5c53-432a-93cc-2e6a90ac6ac3)
 
 
 # Timing Diagram
-![Exp 02 Timing Diagram](https://github.com/amal-2006/Experiment--02-Implementation-of-combinational-logic-/assets/148410730/6fb71a8b-96a8-4403-abf9-0adc920492af)
+![image](https://github.com/HareeshrajaR/Experiment--02-Implementation-of-combinational-logic-/assets/144870459/6ab981e6-644b-470c-8346-90bc7df4f356)
+
 
 
 # Result
